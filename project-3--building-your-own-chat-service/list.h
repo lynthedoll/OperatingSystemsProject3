@@ -1,3 +1,5 @@
+// Authors: Jamiliah Eubanks, Caitlyn Lynch, Rabia Mamo,  Kristian Morgan
+
 #ifndef LIST_H
 #define LIST_H
 
