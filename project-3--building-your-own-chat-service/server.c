@@ -1,3 +1,4 @@
+// Authors: Jamiliah Eubanks, Caitlyn Lynch, Rabia Mamo,  Kristian Morgan
 #include "server.h"
 #include "list.h"
 #include <signal.h>
