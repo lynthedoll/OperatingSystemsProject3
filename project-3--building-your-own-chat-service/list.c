@@ -1,3 +1,5 @@
+// Authors: Jamiliah Eubanks, Caitlyn Lynch, Rabia Mamo, Kristin Morgan
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
